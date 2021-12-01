@@ -9,10 +9,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-body {
-    overflow-x: hidden;
-}
-
 header {
     background-color: rgb(55, 114, 114);
 
@@ -97,6 +93,10 @@ a {
         align-items: center;
 
         transition: all .3s ease-in-out;
+    }
+
+    body {
+        overflow-x: hidden;
     }
 
     .menu-mob {
