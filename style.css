@@ -87,7 +87,7 @@ a {
         width: 100%;
         height: calc(100vh - 85px);
         padding: 30px 0;
-        bottom: 0;
+        top: 85px;
         right: -100%;
         background-color: rgba(0, 0, 0, .8);
 
